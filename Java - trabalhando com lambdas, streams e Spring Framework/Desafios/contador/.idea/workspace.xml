@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b16d6651-a979-4efe-8092-d5958463b4e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Java - aplicando a Orientação a Objetos/.idea/Java - aplicando a Orientação a Objetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/contador.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contador/src/main/java/br/com/vinicius/contador/contador/Avaiacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contador/src/main/java/br/com/vinicius/contador/contador/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../screenmatch5/.idea/Java - trabalhando com lambdas, streams e Spring Framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../screenmatch5/.idea/screenmatch5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../screenmatch5/screenmatch5/src/main/java/br/com/vinicius/screenmatch5/model/DadosSerie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../screenmatch5/screenmatch5/src/main/java/br/com/vinicius/screenmatch5/service/ConsumoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../screenmatch5/screenmatch5/src/main/java/br/com/vinicius/screenmatch5/service/ConverteDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../screenmatch5/screenmatch5/src/main/java/br/com/vinicius/screenmatch5/service/IConverteDados.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2w5vx7Izb5THSzQZ4aJOizrC1gl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ContadorApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ContadorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.vinicius.contador.contador.ContadorApplication" />
+      <module name="contador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.vinicius.contador.contador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContadorApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b16d6651-a979-4efe-8092-d5958463b4e4" name="Changes" comment="" />
+      <created>1745344492708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745344492708</updated>
+    </task>
+    <servers />
+  </component>
+</project>
